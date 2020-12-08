@@ -13,6 +13,7 @@ This repository offers folowing plugins:
 - [hr/motd6](src/hr/motd6.js)
 - [hr/motd7](src/hr/motd7.js)
 - [hr/motd8](src/hr/motd8.js)
+- [hr/motd10](src/hr/motd10.js)
 
 
 
