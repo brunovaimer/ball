@@ -11,6 +11,7 @@
     "hr/ban-protection",
     "hr/game-mode",
     "hr/kickban",
+        "hr/motd2",
     "hr/maps",
     "hr/motd1",
     "hr/mute",
