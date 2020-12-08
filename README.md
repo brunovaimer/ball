@@ -6,6 +6,7 @@ Repository of plugins for
 This repository offers folowing plugins:
 
 - [hr/motd1](src/hr/motd1.js)
+- [hr/motd3](src/hr/motd3.js)
 - [hr/motd2](src/hr/motd2.js)
 
 
