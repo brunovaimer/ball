@@ -12,6 +12,7 @@ This repository offers folowing plugins:
 - [hr/motd4](src/hr/motd4.js)
 - [hr/motd6](src/hr/motd6.js)
 - [hr/motd7](src/hr/motd7.js)
+- [hr/motd8](src/hr/motd8.js)
 
 
 
