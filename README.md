@@ -10,6 +10,7 @@ This repository offers folowing plugins:
 - [hr/motd5](src/hr/motd5.js)
 - [hr/motd2](src/hr/motd2.js)
 - [hr/motd4](src/hr/motd4.js)
+- [hr/motd6](src/hr/motd6.js)
 
 
 Click the links to see the source code for the options the plugins support.
