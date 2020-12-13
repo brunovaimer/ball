@@ -24,6 +24,7 @@ This repository offers folowing plugins:
 - [hr/motd19](src/hr/motd19.js)
 - [hr/motd20](src/hr/motd20.js)
 - [hr/motd22](src/hr/motd22.js)
+- [hr/motd23](src/hr/motd23.js)
 
 
 
