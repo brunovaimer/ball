@@ -36,6 +36,7 @@ This repository offers folowing plugins:
 - [hr/motd33](src/hr/motd33.js)
 - [hr/motd34](src/hr/motd34.js)
 - [hr/motd36](src/hr/motd36.js)
+- [hr/motd37](src/hr/motd37.js)
 
 
 Click the links to see the source code for the options the plugins support.
