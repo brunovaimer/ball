@@ -40,6 +40,7 @@ This repository offers folowing plugins:
 - [hr/motd38](src/hr/motd38.js)
 - [hr/motd39](src/hr/motd39.js)
 - [hr/motd40](src/hr/motd40.js)
+- [hr/motd41](src/hr/motd41.js)
 
 
 Click the links to see the source code for the options the plugins support.
