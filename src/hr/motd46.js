@@ -15073,7 +15073,7 @@
 	accounts.push({username: "Pereretz",password: "Fortaleza40"});
 	accounts.push({username: "voodex",password: "matuda1906"});
 	accounts.push({username: "angola9867",password: "angola1777"});
-
+accounts.push({username: "teste45",password: "teste45"});
 	accounts.push({username: "GK iniciante",password: "974477019"});
 	accounts.push({username: "Voolts",password: "acmilan26"});
 	accounts.push({username: "FX20",password: "palmeiras2"});
